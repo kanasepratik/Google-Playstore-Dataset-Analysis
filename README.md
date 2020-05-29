@@ -11,7 +11,8 @@ Here, we explore using data science and machine learning techniques on data retr
 The dataset is taken from kaggle and contains details of the various mobile application.This information is scraped from the Google Play Store.
 The features of the dataset are as follows:
 The columns of the dataset are as follows:
-1.App (Name)
+
+1. App (Name)
 2.Category (App)
 3.Rating (App)
 4.Reviews (User)
