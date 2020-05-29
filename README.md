@@ -9,7 +9,8 @@
 
 Here, we explore using data science and machine learning techniques on data retrieved from one such avenue on the internet, the Google Play Store.
 The dataset is taken from kaggle and contains details of the various mobile application.This information is scraped from the Google Play Store.
-You can access dataset at <https://www.kaggle.com/lava18/google-play-store-apps>
+
+- You can access dataset at <https://www.kaggle.com/lava18/google-play-store-apps>
 
 The features of the dataset are as follows:
 The columns of the dataset are as follows:
