@@ -46,3 +46,8 @@ The Play Store apps data has enormous potential to drive app-making businesses t
 - Understanding the variables
 - Cleaning the dataset
 - Analyzing relationships between variables
+
+
+
+![](https://github.com/kanasepratik/Google-Playstore-Dataset-Analysis/blob/master/Plots/bar_categorical%20(1).png?raw=true)
+
