@@ -54,3 +54,7 @@ The Play Store apps data has enormous potential to drive app-making businesses t
 
 
 ![](https://github.com/kanasepratik/Google-Playstore-Dataset-Analysis/blob/master/Plots/bar_categorical%20(2).png?raw=true)
+
+
+
+![](https://github.com/kanasepratik/Google-Playstore-Dataset-Analysis/blob/master/Plots/bar_plot%20(1).png?raw=true)
