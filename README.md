@@ -38,3 +38,8 @@ The Play Store apps data has enormous potential to drive app-making businesses t
 - Cleaning the data acoording the machine learning model. 
 - Understanding the feature which can contribute more in predicting the target variables.
 - Handling missing values, performing feature engineering techniques.
+
+## EDA Approach
+- Understanding the variables
+- Cleaning the dataset
+- Analyzing relationships between variables
