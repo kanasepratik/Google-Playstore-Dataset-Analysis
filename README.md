@@ -26,8 +26,15 @@ The columns of the dataset are as follows:
 12. Current Version (App)
 13. Android Version (Support)
 
-
-
-
-
 The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market!
+
+
+## Objectives of Exploring the Data
+
+- The main goal of analyzing the data is to understand the parameters which can impact on the rating of the application.
+- Analyzing the apps with largest popularity
+- Analyzing the apps with largest size.
+- Analyzing the factors which can vary the rating of the applications.
+- Cleaning the data acoording the machine learning model. 
+- Understanding the feature which can contribute more in predicting the target variables.
+- Handling missing values, performing feature engineering techniques.
